@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://ems-backend-tft9.onrender.com'

@@ -1,0 +1,11 @@
+
+.toast-error{
+    text-align: center;
+    background: linear-gradient(to bottom right,rgb(83, 10, 10),rgba(112, 33, 33, 0.669));
+    color: white;
+}
+.toast-success{
+    text-align: center;
+    background: linear-gradient(to bottom right,rgb(15, 83, 10),rgb(33, 112, 38));
+    color: white;
+}
